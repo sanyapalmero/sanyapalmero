@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @sanyapalmero
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi everyone, my name is Alexandr Vagner. I'm Middle Full Stack Developer.
+Currently working on different web services which based on Python, Django, PostgreSQL, Celery, Redis, React, TypeScrpit, SASS, Webpack.
+Also in my projects I use Docker and Linux.
 
-<!---
-sanyapalmero/sanyapalmero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My personal web site: [vagner.one](https://vagner.one/)
+
+My emails: sanyapalmero@gmail.com / alex@vagner.one
